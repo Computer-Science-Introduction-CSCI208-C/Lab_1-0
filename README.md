@@ -11,5 +11,5 @@ This lab is a refresher of concepts you will use repeatedly, including file I/O.
 
 ## Note
 
-Consider using functions for the `fstream` library:  
+Consider using functions from the `fstream` library:  
 `clear( )` and `seekg ( )` 
