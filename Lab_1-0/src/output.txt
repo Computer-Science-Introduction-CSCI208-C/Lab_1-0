@@ -1,0 +1,17 @@
+------- DATA PASSED FROM ARRAY -------
+
+January: 55
+February: 52
+March: 55
+April: 65
+May: 69
+June: 74
+
+------- DATA PASSED FROM FILE -------
+
+January: 55
+February: 52
+March: 55
+April: 65
+May: 69
+June: 74
