@@ -1,7 +1,7 @@
 # Introduction to Programming II (C++) 
 # Lab 1 
 
-This lab is a refresher of concepts you will use repeatedly, including file I/O. 
+**This lab is a refresher of concepts you will use repeatedly, including file I/O.
 
 ## Minimum Viable Product
 
